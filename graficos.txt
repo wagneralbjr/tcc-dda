@@ -1,0 +1,15 @@
+nivel x quantidade de dashs
+nivel x quantidade de recarga manual
+nivel x quantidade de recarga auto
+nivel x tempo medio total
+nivel x de tiros acertados em inimigos, causando dano +  de tiros acertados em inimigo sem causar dano;
+nivel x de tiros que não acertaram inimigos;
+nivel x tiros gastos
+nivel x quantidade de pulos
+nivel x numero de hits medio
+nivel x distancia percorrida
+
+--------
+
+Graficos dos questionarios para escrita da analise.
+Números médios para analise.
